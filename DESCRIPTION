@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/valemarc/MyPackage
 BugReports: https://github.com/valemarc/MyPackage/issues
+RoxygenNote: 7.0.2
